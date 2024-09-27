@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": {
+        "uid": "540966bb-e8ff-43d0-bfa2-cf581307e909",
+        "last_name": "Doe",
+        "first_name": "John",
+        "email": "john.doe@example.com",
+        "phone": "1234567890",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL3YxL2xvZ2luIiwiaWF0IjoxNzI3NDIxMTI5LCJleHAiOjE3Mjc0MjE3MjksIm5iZiI6MTcyNzQyMTEyOSwianRpIjoiWkxIMTVzTXVKUGJMZnFSdyIsInN1YiI6IjU0MDk2NmJiLWU4ZmYtNDNkMC1iZmEyLWNmNTgxMzA3ZTkwOSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.7QNQaVxy5KAmRQXjicDg5PejriPx066WgDi70svLrQM",
+        "token_type": "bearer",
+        "expires_in": "2024-09-27 08:22:09",
+        "access_uid": "c4d259ef-200f-4f4c-88e0-1a6cd6c4853e",
+        "image": null,
+        "created_at": "2024-09-26 19:27:08",
+        "updated_at": "2024-09-27 07:12:09",
+        "status": "active",
+        "last_login": "2024-09-27 08:12:09",
+        "first_connexion": 0
+    },
+    "message": "Utilisateur connecté avec succès."
+}
